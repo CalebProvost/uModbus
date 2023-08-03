@@ -1,0 +1,66 @@
+{
+    "urls": [
+        [
+            "umodbus/__init__.py",
+            "github:CalebProvost/uModbus/umodbus/__init__.py"
+        ],
+        [
+            "umodbus/config.py",
+            "github:CalebProvost/uModbus/umodbus/config.py"
+        ],
+        [
+            "umodbus/exceptions.py",
+            "github:CalebProvost/uModbus/umodbus/exceptions.py"
+        ],
+        [
+            "umodbus/functions.py",
+            "github:CalebProvost/uModbus/umodbus/functions.py"
+        ],
+        [
+            "umodbus/route.py",
+            "github:CalebProvost/uModbus/umodbus/route.py"
+        ],
+        [
+            "umodbus/utils.py",
+            "github:CalebProvost/uModbus/umodbus/utils.py"
+        ],
+        [
+            "umodbus/client/__init__.py",
+            "github:CalebProvost/uModbus/umodbus/client/__init__.py"
+        ],
+        [
+            "umodbus/client/tcp.py",
+            "github:CalebProvost/uModbus/umodbus/client/tcp.py"
+        ],
+        [
+            "umodbus/client/serial/__init__.py",
+            "github:CalebProvost/uModbus/umodbus/client/serial/__init__.py"
+        ],
+        [
+            "umodbus/client/serial/redundancy_check.py",
+            "github:CalebProvost/uModbus/umodbus/client/serial/redundancy_check.py"
+        ],
+        [
+            "umodbus/client/serial/rtu.py",
+            "github:CalebProvost/uModbus/umodbus/client/serial/rtu.py"
+        ],
+        [
+            "umodbus/server/__init__.py",
+            "github:CalebProvost/uModbus/umodbus/server/__init__.py"
+        ],
+        [
+            "umodbus/server/serial/__init__.py",
+            "github:CalebProvost/uModbus/umodbus/server/serial/__init__.py"
+        ],
+        [
+            "umodbus/server/serial/rtu.py",
+            "github:CalebProvost/uModbus/umodbus/server/serial/rtu.py"
+        ],
+        [
+            "umodbus/server/tcp.py",
+            "github:CalebProvost/uModbus/umodbus/server/tcp.py"
+        ]
+    ],
+    "deps": [],
+    "version": "1.0.4"
+}
